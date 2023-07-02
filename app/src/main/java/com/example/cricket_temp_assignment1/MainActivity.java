@@ -42,6 +42,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void test()
+    {
+        Toast.makeText(this, "Pushing this project on github test.", Toast.LENGTH_SHORT).show();
+    }
+
     public void init()
     {
         etchirps = findViewById(R.id.etchirps);
