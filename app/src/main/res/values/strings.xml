@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cricket_temp_Assignment1</string>
+    <string name="Msg_1">The approximate temperature outside is  </string>
+    <string name="Msg_2">  Degree Celcius</string>
+    <string name="Label_1info">Did you know you can determine the temprature outside by counting the number of chirps the cricket makes? just count the number of chirps one makes in 25 seconds and place that number in the box below:</string>
+
+</resources>
